@@ -10,3 +10,4 @@ A repo containing some of the awesome features of Python that makes our lives ea
 6. PyAnimation_examples code for "manim" packet demonstration
 7. Example code for translating Py program to C module
 8. Pandas setting start options example
+9. Template for the visualisation of the heatmap
